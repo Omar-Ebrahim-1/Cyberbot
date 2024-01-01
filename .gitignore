@@ -1,0 +1,7 @@
+.venv
+*.pdf
+random.py
+setup.cfg
+Backlog.md
+Cyberbot_Mount
+__pycache__ 
